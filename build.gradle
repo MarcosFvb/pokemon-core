@@ -1,0 +1,13 @@
+plugins {
+    id 'java'
+}
+
+group 'public.pokemon_core'
+version '1.0-BETA-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+}
